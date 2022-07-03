@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc c-code
+gcc c_code
